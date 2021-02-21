@@ -1,2 +1,9 @@
 # Military-Job-V1.0-
-Simple Military Job With F6 Menu Enjoy ;)
+
+Place esx_arteshjob in resources, then add to your server.cfg:
+start esx_arteshjob
+
+Enjoy ;)
+
+
+;)اگر نیاز به اسکریپت خاصی داشتین توی دیسکورد بهم اطلاع بدین
